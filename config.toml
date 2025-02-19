@@ -1,0 +1,32 @@
+# Registration delay in seconds (задержка регистрации в секундах)
+REGISTRATION_DELAY_SEC = [20, 30]
+
+# Faucet sleep in seconds (задержка фейта в секундах)
+FAUCET_SLEEP_SEC = [1, 10]
+
+# Captcha error sleep in seconds (задержка при ошибке капчи в секундах)
+CAPTCHA_ERROR_SLEEP_SEC = [1, 10]
+
+# Capsolver key (ключ capsolver)
+CAPSOLVER_KEY = "ВАШ_КЛЮЧ_CAPSOLVER"
+
+# Shuffle accounts (перемешивать аккаунты)
+SHUFFLE_ACCOUNTS = true
+
+# Email service URL (URL сервиса email)
+EMAIL_SERVICE_URL = "http://localhost:8198"
+
+# Email service IMAP host (хост IMAP сервиса email)
+EMAIL_SERVICE_IMAP_HOST = "imap.rambler.ru"
+
+# Email service IMAP port (порт IMAP сервиса email)
+EMAIL_SERVICE_IMAP_PORT = 993
+
+# Email retries (количество попыток получения email кода)
+EMAIL_RETRIES = 2
+
+# Email sleep if not code found (задержка при отсутствии кода в email)
+EMAIL_SLEEP_IF_NOT_CODE_FOUND_SEC = 20
+
+# Show browser (показывать браузер)
+SHOW_BROWSER = false
