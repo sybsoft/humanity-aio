@@ -1,4 +1,4 @@
-# Humanity
+# Humanity - https://t.me/sybilych
 
 - Заполняем `data/emails.txt`
 - Заполняем `data/evm_connect_wallets_private_keys.txt`
