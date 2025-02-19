@@ -3,7 +3,7 @@
 - Заполняем `data/emails.txt` в формате username:pass
 - Заполняем `data/evm_connect_wallets_private_keys.txt`
 - Заполняем `proxies.txt` в формате user:pass@host:port
-- Заполняем `data/names.txt`
+- Заполняем `data/names.txt` в формате firstname:lastname
 - Заполняем `data/referral_names.txt`
 - Заполняем `data/usernames.txt`
 
